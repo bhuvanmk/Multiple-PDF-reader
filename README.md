@@ -61,9 +61,10 @@ OPENAI_API_KEY=your_openai_key_here
 HUGGINGFACE_TOKEN=your_huggingface_token_here
 
 ## Snapshots ##
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 13 PM" src="https://github.com/user-attachments/assets/27c5cc2c-c36e-46e7-9f51-34ea56832e5f" />
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 35 PM" src="https://github.com/user-attachments/assets/9d156987-a25a-4896-90a9-11793a3144ac" />
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 00 PM" src="https://github.com/user-attachments/assets/588699f8-b820-4652-99e3-c4f7996ad04d" />
 
-![snapshot](https://github.com/user-attachments/assets/e2ec643d-a7ad-4136-87ba-a4d314eb522a)
-![snapshot1](https://github.com/user-attachments/assets/c34be935-996d-4aa2-a956-55561b863ce8)
-![snapshot2](https://github.com/user-attachments/assets/249dcae8-4b5d-42bc-a368-539775a19f6e)
+
 
 
