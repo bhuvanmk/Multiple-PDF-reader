@@ -62,10 +62,8 @@ HUGGINGFACE_TOKEN=your_huggingface_token_here
 
 ## Snapshots ##
 
-![Uploading Screenshot 2025-08-10 at 10.42.48 AM.png…]()
-<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 42 48 AM" src="https://github.com/user-attachments/assets/e8a48999-5511-4441-a987-bac434a46097" />
-<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 43 44 AM" src="https://github.com/user-attachments/assets/fa289024-7ae4-4915-833c-8527eb653953" />
-<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 47 38 AM" src="https://github.com/user-attachments/assets/d55969e1-0361-4188-adc2-4a7065af48ee" />
-
+![snapshot](https://github.com/user-attachments/assets/e2ec643d-a7ad-4136-87ba-a4d314eb522a)
+![snapshot1](https://github.com/user-attachments/assets/c34be935-996d-4aa2-a956-55561b863ce8)
+![snapshot2](https://github.com/user-attachments/assets/249dcae8-4b5d-42bc-a368-539775a19f6e)
 
 
