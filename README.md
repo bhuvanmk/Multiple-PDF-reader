@@ -43,7 +43,8 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 
 
-## Run the Streamlit app ##
+## Run the Streamlit app ##<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 42 48 AM" src="https://github.com/user-attachments/assets/dfb78c3b-6a28-4a4e-94ed-320c2ee09f48" />
+
 streamlit run app.py
 
 
@@ -58,3 +59,13 @@ streamlit run app.py
 ##  .env  ###
 OPENAI_API_KEY=your_openai_key_here
 HUGGINGFACE_TOKEN=your_huggingface_token_here
+
+## Snapshots ##
+
+![Uploading Screenshot 2025-08-10 at 10.42.48 AM.png…]()
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 42 48 AM" src="https://github.com/user-attachments/assets/e8a48999-5511-4441-a987-bac434a46097" />
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 43 44 AM" src="https://github.com/user-attachments/assets/fa289024-7ae4-4915-833c-8527eb653953" />
+<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 47 38 AM" src="https://github.com/user-attachments/assets/d55969e1-0361-4188-adc2-4a7065af48ee" />
+
+
+
