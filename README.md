@@ -1,17 +1,17 @@
 ## Requirements.txt ##
 
-streamlit
-python-dotenv
-pypdf2
-langchain
-langchain-community
-langchain-huggingface
-langchain-openai
-faiss-cpu
-llama-cpp-python
-transformers
-sentence-transformers
-torch
+* streamlit
+* python-dotenv
+* pypdf2
+* langchain
+* langchain-community
+* langchain-huggingface
+* langchain-openai
+* faiss-cpu
+* llama-cpp-python
+* transformers
+* sentence-transformers
+* torch
 
 # Multiple PDFs Chatbot (Offline AI)
 
