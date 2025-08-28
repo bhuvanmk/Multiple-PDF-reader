@@ -25,25 +25,12 @@ The app extracts text from uploaded PDFs, chunks it, stores it in a FAISS vector
 -  Conversational memory to remember chat history
 -  Modern UI with Streamlit
 
-##  Installation
-
-###  Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/Multiple-PDF-reader.git
-cd Multiple-PDF-reader
-
-
-## Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-
 
 ## Install dependencies ##
 pip install -r requirements.txt
 
 
-## Run the Streamlit app ##<img width="1470" height="956" alt="Screenshot 2025-08-10 at 10 42 48 AM" src="https://github.com/user-attachments/assets/dfb78c3b-6a28-4a4e-94ed-320c2ee09f48" />
+## Run the Streamlit app 
 
 streamlit run app.py
 
