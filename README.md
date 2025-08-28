@@ -28,7 +28,7 @@ The app extracts text from uploaded PDFs, chunks it, stores it in a FAISS vector
 ##  Installation
 
 ###  Clone the repository
-```bash
+
 git clone https://github.com/YOUR_USERNAME/Multiple-PDF-reader.git
 cd Multiple-PDF-reader
 
@@ -60,7 +60,8 @@ streamlit run app.py
 OPENAI_API_KEY=your_openai_key_here
 HUGGINGFACE_TOKEN=your_huggingface_token_here
 
-## Snapshots ##
+screenshot
+
 <img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 13 PM" src="https://github.com/user-attachments/assets/27c5cc2c-c36e-46e7-9f51-34ea56832e5f" />
 <img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 35 PM" src="https://github.com/user-attachments/assets/9d156987-a25a-4896-90a9-11793a3144ac" />
 <img width="1470" height="956" alt="Screenshot 2025-08-10 at 7 10 00 PM" src="https://github.com/user-attachments/assets/588699f8-b820-4652-99e3-c4f7996ad04d" />
